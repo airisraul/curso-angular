@@ -22,5 +22,4 @@ onDeleteCharacter(id?: string):void{
 }
 
 
-
 }
